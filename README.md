@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Vivek Sharma 
 
-<!--
-**CodeWithVive/CodeWithVive** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ECE Student | Aspiring Embedded Systems Engineer
 
-Here are some ideas to get you started:
+I'm an Electronics and Communication Engineering student interested in Embedded Systems, microcontrollers, and practical electronics projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##  About Me
+-  B.Tech student in Electronics & Communication Engineering
+-  Learning C Programming and Embedded C
+-  Building Arduino-based electronics projects
+-  Career goal: Embedded Systems Engineer
+
+##  Technical Skills
+- **Programming:** C, Python, Embedded C
+- **Platforms:** Arduino
+- **Tools:** Tinkercad, KiCad
+- **Interests:** Embedded Systems, Digital Electronics, IoT
+
+##  Featured Projects
+-  Smart Water Monitoring System
+-  Smart Home Automation
+-  Bluetooth-Controlled Car
+-  Arduino Traffic Light System
+
+Explore my projects: [ECE-Projects](https://github.com/CodeWithVive/ECE-Projects)
+
+##  Currently Learning
+- GPIO, timers, interrupts, and PWM
+- UART, SPI, and I2C communication
+- Embedded C and microcontroller programming
+
+##  Connect With Me
+- GitHub: [@CodeWithVive](https://github.com/CodeWithVive)
+
+---
+ Thanks for visiting my profile!
